@@ -1,0 +1,24 @@
+.about {
+  background: #fff;
+  margin-bottom: 60px;
+}
+.aboutpic {
+  width: 100%;
+  height: 100%;
+}
+.about h1 {
+  direction: rtl;
+  max-width: 97%;
+  font-family: monospace;
+}
+.aboutPrag {
+  font-size: 17px;
+  color: gray;
+  direction: rtl;
+  font-family: monospace;
+  max-width: 90%;
+  display: block;
+  margin: 30px auto;
+  line-height: 2;
+  text-align: justify;
+}

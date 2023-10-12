@@ -1,0 +1,147 @@
+.home {
+  background: #fff;
+}
+.headerHome {
+  background: url(../img/016d2efdbf8e2db981f0563396680fde8fd5c53c_1694502273.webp);
+  background-size: cover;
+  width: 100%;
+  height: 282px;
+  background-repeat: no-repeat;
+}
+.buymore {
+  height: 145px;
+  position: relative;
+}
+.buymore h3 {
+  margin: 0;
+  text-align: center;
+  padding-top: 50px;
+}
+.buymore h3 a {
+  text-decoration: none;
+  color: #fff;
+  text-shadow: 1px 0px 2px #000000;
+  transition: all 0.3s;
+}
+.buymore h3 a:hover {
+  color: black !important;
+  font-size: 1.39rem;
+}
+.gifth {
+  position: absolute;
+  top: 18px;
+  left: 16px;
+}
+.gifth img {
+  width: 50px;
+  height: 50px;
+}
+.gifth2 {
+  position: absolute;
+  top: 27px;
+  right: 55px;
+  transform: rotate(0.76turn);
+}
+.gifth2 img {
+  width: 40 px;
+  height: 40px;
+}
+.gifth3 {
+  position: absolute;
+  width: 48%;
+  direction: rtl;
+}
+.gifth3 img {
+  width: 60px;
+  height: 60px;
+}
+/* home cart */
+.hcart {
+  border-top: 1px solid #f2ecec;
+  margin-top: 40px;
+  padding: 60px 0;
+}
+.cardHo {
+  padding: 10px 15px;
+  transition: all 0.3s;
+}
+.cardHo img {
+  width: 260px;
+  height: 260px;
+}
+.cardHo a:hover {
+  background: #68c72d !important;
+  border: 1px solid #68c72d !important;
+}
+.cardHo:hover {
+  box-shadow: 0 0 11px -5px #14172f;
+}
+
+/* takhfif */
+.takhfif {
+  font-size: 4rem;
+  text-align: center;
+  padding: 60px 0;
+  background: url(../img/discount.jpg) no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.caroselHome {
+  padding: 60px 0;
+  background: #f8f8f8;
+}
+.txtCarousel {
+  text-align: center;
+}
+.txtCarousel h1 {
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+.txtCarousel p {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #655d5d;
+}
+.moree {
+  display: none;
+}
+.readOrHide {
+  cursor: pointer;
+  color: #b79ee9;
+}
+.txtclock span {
+  color: #fff;
+}
+.shapeepro {
+  margin-bottom: 50px;
+}
+.shapeepro img {
+  width: 224px;
+  height: 250px;
+}
+.shapeepro h4 {
+  margin-top: 25px;
+  font-weight: 600;
+}
+.shapeepro p {
+  font-family: monospace;
+}
+.btndetalis {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btndetalis a {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+}
+.marginERight {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.btnColor > .btn-info {
+  color: #fff;
+}

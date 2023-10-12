@@ -1,0 +1,46 @@
+.bgFooter {
+  background: #14172f;
+  color: #fff;
+  padding: 60px 0;
+  font-family: cursive;
+}
+.containerFooter {
+  max-width: 93%;
+  margin: 0 auto;
+  display: flex;
+  padding-bottom: 30px;
+}
+.logoFoot {
+  max-width: 25%;
+  text-align: justify;
+}
+.logoFoot img {
+  margin: 21px 0;
+}
+
+.logoFoot p {
+  color: #b2b2b2;
+  font-size: 14px;
+  font-family: cursive;
+}
+.titleFot {
+  flex-direction: column;
+  display: flex;
+  width: 25%;
+  text-align: center;
+  line-height: 2;
+  margin-top: 27px;
+}
+
+.copyRight {
+  margin-top: 45px;
+  border-top: 1px solid #888888;
+  padding-top: 35px;
+}
+.containerFot {
+  max-width: 93%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+}
